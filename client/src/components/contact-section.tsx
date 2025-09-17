@@ -58,7 +58,6 @@ export function ContactSection() {
             <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-6">Let's Connect</h3>
             <p className="text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
               Whether you have a project in mind, want to collaborate, or just want to say hello, I'd love to hear from you.
-
             </p>
 
             <div className="flex items-center space-x-4">
